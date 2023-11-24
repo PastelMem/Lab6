@@ -1,0 +1,10 @@
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\bin\Debug\LAb1.1.exe.config
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\bin\Debug\LAb1.1.exe
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\bin\Debug\LAb1.1.pdb
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1.1.csproj.AssemblyReference.cache
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1._1.Form1.resources
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1._1.Properties.Resources.resources
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1.1.csproj.GenerateResource.cache
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1.1.csproj.CoreCompileInputs.cache
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1.1.exe
+C:\Users\maste\Desktop\Krist\LAb1.1\LAb1.1\obj\Debug\LAb1.1.pdb
